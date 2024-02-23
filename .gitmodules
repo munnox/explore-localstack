@@ -11,3 +11,6 @@
 	url = https://github.com/localstack-samples/sample-serverless-image-resizer-s3-lambda.git
 	branch = main
 
+[submodule "samples/localstack_sample_serverless_image"]
+	path = samples/localstack_sample_serverless_image
+	url = https://github.com/munnox/sample-serverless-image-resizer-s3-lambda.git
