@@ -1,0 +1,13 @@
+[submodule "localstack/localstack"]
+	path = localstack/localstack
+	url = https://github.com/localstack/localstack.git
+	branch = master
+[submodule "localstack/moto"]
+	path = localstack/moto
+	url = https://github.com/localstack/moto
+	branch = localstack
+[submodule "localstack/sample_serverless_image"]
+	path = localstack/sample_serverless_image
+	url = https://github.com/localstack-samples/sample-serverless-image-resizer-s3-lambda.git
+	branch = main
+
