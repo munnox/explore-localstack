@@ -9,4 +9,9 @@ Notes on Sample:
 
 * Need to set DNS for `localhost.localstack.cloud` for `127.0.0.1`.
 
+Looking at Debugging
+
+```bash
+LAMBDA_DOCKER_FLAGS='-p 19891:19891' localstack start
+```
 
